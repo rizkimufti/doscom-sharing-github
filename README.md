@@ -43,4 +43,4 @@ git config --list
 user.name=namakamu
 user.email=contoh@gmail.com
 ```
-### Usahakan nama dan email sama dengan akun github mu agar mudah diintegrasikan
+#### Usahakan nama dan email sama dengan akun github mu agar mudah diintegrasikan
