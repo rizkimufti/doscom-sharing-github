@@ -78,3 +78,27 @@ git commit -m "pesan anda"
 git log
 ```
 
+## Hosting Project ke Github
+
+### Menambahkan repo remote Repo remote adalah repo yang ada di luar komputer kita. Dalam contoh ini adalah repo di github
+
+```
+git remote add <nama-remote> <link-repo-remote>
+``` 
+#### Contoh :
+
+```
+git remote add origin https://github.com/DOSCOM/belajargithub.git
+```
+
+### Menyimpan proyek ke repo remote
+
+```
+git push <nama-remote> <nama-branch>
+```
+#### secara default branch yang dimiliki adalah master. Contoh :
+
+```
+git push origin master
+```
+
