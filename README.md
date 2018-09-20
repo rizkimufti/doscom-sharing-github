@@ -44,3 +44,37 @@ user.name=namakamu
 user.email=contoh@gmail.com
 ```
 #### Usahakan nama dan email sama dengan akun github mu agar mudah diintegrasikan
+
+## Menginisialisasi git pada project
+
+#### masuk kedalam folder projectmu dan ketikkan
+
+```
+git init
+```
+## Menambah record git 
+
+#### Jika Sudah melakukan inisialisasi dan file projectmu siap di upload , kemudian ketikkkan
+
+```
+git add <nama file> ///menambah file tertentu
+
+git add . ///menambah semua filenya
+```
+
+## Mengcommit git
+
+#### Jika Sudah melakukan penambahan record , kemudian kita beri pesan pada record yang sebelumnya kita tambahkan 
+
+```
+git commit -m "pesan anda"
+```
+
+## Melihat log atau daftar commit
+
+#### Berguna untuk melihat riwayat file yang telah diupload
+
+```
+git log
+```
+
