@@ -23,6 +23,8 @@ git --version
 git version 2.17.1 (tergantung versi kalian)
 ```
 
+
+
 ##  Konfigurasi Awal yang Harus dilakukan setelah menginstal git
 
 ### Ada beberapa konfigurasi yang harus dupersiapakan sebelum mulai menggunakan Git, seperti name dan email. Silahkan lakukan konfigurasi dengan perintah berikut ini
@@ -44,6 +46,9 @@ user.name=namakamu
 user.email=contoh@gmail.com
 ```
 #### Usahakan nama dan email sama dengan akun github mu agar mudah diintegrasikan
+
+
+
 
 ## Menginisialisasi git pada project
 
@@ -77,6 +82,9 @@ git commit -m "pesan anda"
 ```
 git log
 ```
+
+
+
 
 ## Hosting Project ke Github
 
